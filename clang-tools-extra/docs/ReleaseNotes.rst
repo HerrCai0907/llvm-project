@@ -168,6 +168,11 @@ New checks
   Gives warnings for tagged unions, where the number of tags is
   different from the number of data members inside the union.
 
+- New :doc:`lifetime-use-capture-by
+  <clang-tidy/checks/lifetime/use-capture-by>` check.
+
+  FIXME: Write a short description.
+
 - New :doc:`modernize-use-integer-sign-comparison
   <clang-tidy/checks/modernize/use-integer-sign-comparison>` check.
 

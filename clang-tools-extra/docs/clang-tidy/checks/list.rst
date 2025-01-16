@@ -240,6 +240,7 @@ Clang-Tidy Checks
    :doc:`hicpp-multiway-paths-covered <hicpp/multiway-paths-covered>`,
    :doc:`hicpp-no-assembler <hicpp/no-assembler>`,
    :doc:`hicpp-signed-bitwise <hicpp/signed-bitwise>`,
+   :doc:`lifetime-use-capture-by <lifetime/use-capture-by>`, "Yes"
    :doc:`linuxkernel-must-check-errs <linuxkernel/must-check-errs>`,
    :doc:`llvm-header-guard <llvm/header-guard>`,
    :doc:`llvm-include-order <llvm/include-order>`, "Yes"
